@@ -35,7 +35,8 @@ If the package is not available use the following command and redirect its outpu
 5. Long list all the files. Which tool gave you the best compression?
 > ![q3p1](../imgs/lab7/q3p1.png)
 > ![q3p2](../imgs/lab7/q3p2.png)
-> bzip2 had the best compression by a slight margin.  
+> 
+>  bzip2 had the best compression by a slight margin.  
 
 ## Question 4 | Zip, 7zip and Rar
 1. Decompress all the compressed files from question 3 in the `question4` directory. Make sure to rename the file after decompressing them.
@@ -46,6 +47,5 @@ If the package is not available use the following command and redirect its outpu
 > ![q4p1](../imgs/lab7/q4p1.png)
 > ![q4p2](../imgs/lab7/q4p2.png)
 > ![q4p3](../imgs/lab7/q4p3.png)
-> ![q4p4]()
-> ![q4p5]()
+> ![q4p4](../imgs/lab7/q4p4.png)
 
