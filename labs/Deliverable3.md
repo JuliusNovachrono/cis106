@@ -6,7 +6,7 @@
 ## Step 1.1 Downloading Ubuntu disc
 * Visit ubuntu.com and click on the download tab, you should be able to see Ubuntu Desktop 20.04 LTS.
 * After doing so you should be able to see the following image.
-* ![x](DelPics/step.1.png)
+* ![x](../imgs/DelPics/step.1.png)
 * If the download hasn't started simply click on download now.
 * you should be able to see the following image.
 * ![x](../imgs/DelPics/step.1.2.png)
