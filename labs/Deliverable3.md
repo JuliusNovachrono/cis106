@@ -1,6 +1,10 @@
 ##### Arnaldo Jara
 
 ##### CIS-106-RE1
+
+##### Professor Alberto
+
+##### May 8,2020
 # Deliverable 3: Turning Ubuntu into an everyday OS
 
 ## Step 1.1 Downloading Ubuntu disc
