@@ -15,10 +15,10 @@
 ## Part 2
 | Application Name | Open Source Alternative | License Used by Alternative|
 |------|-------|-------|
-|Skype|answer here|answer here|
-|Photoshop|answer here|answer here|
-|Microsoft Office|answer here|answer here|
-|Outlook|answer here|answer here|
-|Microsoft Hyper-V|answer here|answer here|
+|Skype|Jitsi|AL 2.0|
+|Photoshop|Gimp|GNU|
+|Microsoft Office|Libre Office|MPL 2.0|
+|Outlook|Thunderbird|MPL2.0 & GPL2.0 & LGPL2.1|
+|Microsoft Hyper-V|Oracle VM VirtualBox|GNU & GPLv2|
 
 
