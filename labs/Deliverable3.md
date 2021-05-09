@@ -9,7 +9,7 @@
 * ![x](DelPics/step.1.png)
 * If the download hasn't started simply click on download now.
 * you should be able to see the following image.
-* ![x](../DelPics/step.1.2.png)
+* ![x](../imgs/DelPics/step.1.2.png)
 * Then click on "save file" option, and then click "OK".
 ## Step 1.2 Downloading Rufus to USB
 * Rufus will be used to boot Ubuntu into a computer using a USB drive 
