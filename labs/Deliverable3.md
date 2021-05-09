@@ -13,7 +13,7 @@
 * Then click on "save file" option, and then click "OK".
 ## Step 1.2 Downloading Rufus to USB
 * Rufus will be used to boot Ubuntu into a computer using a USB drive 
-* You will need to visit Rufus https://rufus.ie/en_US/.
+* You will need to visit [Rufus](https://rufus.ie/en_US/).
 * Then scroll down to the download section and click on Rufus 3.14 (Portable). 
 * ![x](../imgs/DelPics/step1.3.png)
 * Click on Save File.
