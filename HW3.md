@@ -8,7 +8,7 @@ Given the scenario, use the internet or go straight to Distrowatch to find a Lin
 ## Scenario 1: Using a Live Linux Installation
 
 John is fixing Mario’s laptop. He needs to prepare a live USB flash drive that he can boot Linux from so that he can access some important information. The problem is that he only has a 4GB flash drive available. Which Linux distribution would you advise John to use to prepare the live USB installation?
-* To my good friend Mario I would recommend Puppy Linux.
+* To my good friend Mario I would recommend the Puppy Linux distribution. The package is very small in size, and is ideal to download into a USB drive to boot up a computer. Unlike most CD distributions like Ubuntu the Puppy distribution boots into the ram disk, which makes it lightweight and quick. Since Mario’s laptop needs to be fixed asap the instillation of puppy is completed at the blink of an eye. This distribution also comes fully featured for him to access important information. The supported processor architecture are   i686, x86_64,
 
 logo | Based on | URL 
 -----|----------|-----
