@@ -9,6 +9,7 @@ Watch the video [“Linux Filesystem Explained”](https://www.youtube.com/watch
 
 
 3. **In Windows, these files are all the same: File FILE file and FiLE. But in Linux this is not the case, Why?**
+* Linux directories/files are case sensitive, unlike windows file system.
 
 
 4. **What is the Filesystem Hierarchy Standard (FHS) and who maintains it?**
@@ -18,7 +19,7 @@ Watch the video [“Linux Filesystem Explained”](https://www.youtube.com/watch
 
 Directory | What is it used for?
 --------- | --------------------
-/bin    | answer here
+/bin    | used for containing binary commands that can be used by scripts,admin and other users
 /dev    | answer here
 /etc    | answer here
 /home   | answer here
