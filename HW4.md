@@ -6,14 +6,14 @@ Watch the video [“Linux Filesystem Explained”](https://www.youtube.com/watch
 * Absolute path is the full path name, and can access any file in any directory. Realtive path only uses partial of the full path, which is used when working within a current directory. 
 
 2. **Why Linux uses / instead of \ for its directory paths?**
-
+* Its because Linux is a unix like OS, and the forward slash "/" is used to seperate a directoy. Windows uses backslash because they think their cool lol.
 
 3. **In Windows, these files are all the same: File FILE file and FiLE. But in Linux this is not the case, Why?**
 * Linux directories/files are case sensitive, unlike windows file system.
 
 
 4. **What is the Filesystem Hierarchy Standard (FHS) and who maintains it?**
-
+* The FHS is a policy that sets the rules for directory structures and content on most linux distibutions, and the "Linux Foundation" maintains the FHS policy.
 
 5. **Explain what type of files are stored in the following directories:**
 
