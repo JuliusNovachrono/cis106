@@ -16,10 +16,11 @@ logo | Based on | URL
 
 ## Scenario 2: Using Linux for parental control
 Mario is concerned about his children using the house computer. He has an older laptop that he has not used in a while and has hired you to prepare that laptop for his children to use. Mario wants the children to use the computer mostly for educational purposes so he asks you to install educational tools in it. He is also concerned about his children using the internet so asks you if you could somehow install a web browser/search engine that has parental control or at least blocks adult content. Mario has given you $150 dollars for upgrades so that if needed you can proceed without contacting him. Which Linux distribution would install in Mario’s older laptop? 
+*
 
 logo | Based on | URL 
 -----|----------|-----
-Insert logo here | answer here | URL here
+![](https://distrowatch.com/images/yvzhuwbpy/skolelinux.png) | Debian (Stable) | http://www.skolelinux.org/
 
 ## Scenario 3: Linux + Gaming
 Johanna is a gamer. She loves playing RPGs and Indie games. Johanna makes a living streaming her gaming sessions on Twitch and YouTube. She is angry because, during one of her live streams, windows 10 decided to install an update. All of Johanna’s games are available for Linux and she is good enough with computers to be able to pick up using a new operating system. Which Linux distribution would you recommend Johanna to try?
