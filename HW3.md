@@ -24,7 +24,7 @@ logo | Based on | URL
 
 ## Scenario 3: Linux + Gaming
 Johanna is a gamer. She loves playing RPGs and Indie games. Johanna makes a living streaming her gaming sessions on Twitch and YouTube. She is angry because, during one of her live streams, windows 10 decided to install an update. All of Johanna’s games are available for Linux and she is good enough with computers to be able to pick up using a new operating system. Which Linux distribution would you recommend Johanna to try?
-*
+* To my girl Johanna I recommend the Steam OS Linux distribution. Steam OS was developed by the gaming platform Steam and was created to offer a video game console experience on Linux, and includes a GNOME desktop mode. Every game that is purchased from steam (which is most) will work in this Linux distribution. The issue Johanna experienced with the update cutting off her stream will not happen on Steam OS. The updates she accepts to run will be running in the background without any interruptions, unless if a system restart is required. In this case she will be warned before accepting. The supported processor architecture are  x86_64.
 
 logo | Based on | URL 
 -----|----------|-----
