@@ -9,6 +9,7 @@ Given the scenario, use the internet or go straight to Distrowatch to find a Lin
 
 John is fixing Mario’s laptop. He needs to prepare a live USB flash drive that he can boot Linux from so that he can access some important information. The problem is that he only has a 4GB flash drive available. Which Linux distribution would you advise John to use to prepare the live USB installation?
 * To my good friend Mario I would recommend Puppy Linux.
+
 logo | Based on | URL 
 -----|----------|-----
 https://distrowatch.com/images/yvzhuwbpy/puppy.png | Independent | http://www.puppylinux.com/
