@@ -34,7 +34,7 @@ Directory | What is it used for?
 
 
 7. **Which command would you use to list all the files inside the /usr/share/ directory?**
-
+* ls -a
 
 
 8. **If you are working in the /usr/share/icons directory and want to move to your home directory, which command would you use?**
