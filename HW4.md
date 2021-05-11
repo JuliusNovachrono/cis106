@@ -31,13 +31,14 @@ Directory | What is it used for?
 /usr    | used for containing sharable read only files
 
 6. **How does a period at the beginning of a file name means (example .bashrc)?**
-
+* It seperates the file from it's extension.
 
 7. **Which command would you use to list all the files inside the /usr/share/ directory?**
 * ls -a
 
 
 8. **If you are working in the /usr/share/icons directory and want to move to your home directory, which command would you use?**
+* 
 
 9. **Explain what these commands do:**
 
