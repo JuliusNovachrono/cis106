@@ -32,7 +32,7 @@ logo | Based on | URL
 
 ## Scenario 4: Reviving an old PC
 Giorgina has an old computer that came with Windows Vista. She cannot afford to buy a new computer or update her current PC. Her computer is used for online shopping, reading emails, paying her bills, and listening to music. All her music is on an external hard drive and she normally does not keep important information on her computer. Georgina is willing to pay you to make her computer faster. You have concluded that installing Linux is the simplest and most cost-efficient way to help her. However, in such an old PC, Ubuntu 20.04 will be almost as slow as Windows 10 so you need to find another distribution that is much lighter on system resources and has been designed for running on older hardware. Which distribution will you install in Georgina’s ~~dinosaur~~ PC?
-*
+* To my good old  auntie Giorgina I recommend the AntiX Linux distribution. The AntiX distro was created with dinosaur PC’s in mind. It is an extremely lightweight OS that will only consume 2.7 gigabytes of storage, or it can even run live using a USB without using storage. Its environment is very simple and easy to use making it ideal for old computers and old people too. I will happily install AntiX for a very cheap price of a million dollars. The supported processor architecture are  i686, x86_64.
 
 logo | Based on | URL 
 -----|----------|-----
