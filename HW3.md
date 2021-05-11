@@ -16,7 +16,7 @@ logo | Based on | URL
 
 ## Scenario 2: Using Linux for parental control
 Mario is concerned about his children using the house computer. He has an older laptop that he has not used in a while and has hired you to prepare that laptop for his children to use. Mario wants the children to use the computer mostly for educational purposes so he asks you to install educational tools in it. He is also concerned about his children using the internet so asks you if you could somehow install a web browser/search engine that has parental control or at least blocks adult content. Mario has given you $150 dollars for upgrades so that if needed you can proceed without contacting him. Which Linux distribution would install in Mario’s older laptop? 
-* 
+* To my good buddy Mario I would recommend the Debian Edu Linux distribution. This distribution is ideal for his children to use for educational purposes. It comes preloaded with 75 built in education apps, and was created with education in mind unlike other distributions. With other distributions you would have to  download too many educational applications and parental control separately to make it functional for educational purposes. With Debian Edu you will only need to install a parental control software. The software is called Dans Guardian and is absolutely free. So, I will be keeping his $150 and go buy the whole block some mangu. The supported processor architecture are  i386, x86_64.
 
 logo | Based on | URL 
 -----|----------|-----
