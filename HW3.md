@@ -16,7 +16,7 @@ logo | Based on | URL
 
 ## Scenario 2: Using Linux for parental control
 Mario is concerned about his children using the house computer. He has an older laptop that he has not used in a while and has hired you to prepare that laptop for his children to use. Mario wants the children to use the computer mostly for educational purposes so he asks you to install educational tools in it. He is also concerned about his children using the internet so asks you if you could somehow install a web browser/search engine that has parental control or at least blocks adult content. Mario has given you $150 dollars for upgrades so that if needed you can proceed without contacting him. Which Linux distribution would install in Mario’s older laptop? 
-*
+* 
 
 logo | Based on | URL 
 -----|----------|-----
