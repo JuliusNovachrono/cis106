@@ -50,4 +50,4 @@ Directory | What is it used for?
 10. **John has a lot of files in the directory /var/www/html/webapp. He wants to long list all the files, including hidden files, by modification time (newest first), and with human-readable file sizes. Which command should he use conjuring that his current working directory is:** 
     
 `/home/john/.git/`
-*
+* cd --> 
