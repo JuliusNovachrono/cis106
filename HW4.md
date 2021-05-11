@@ -19,16 +19,16 @@ Watch the video [“Linux Filesystem Explained”](https://www.youtube.com/watch
 
 Directory | What is it used for?
 --------- | --------------------
-/bin    | used for containing binary commands that can be used by scripts,admin and other users
-/dev    | answer here
-/etc    | answer here
-/home   | answer here
-/lib    | answer here     
-/opt    | answer here
-/tmp    | answer here
-/var    | answer here
-/proc   | answer here
-/usr    | answer here
+/bin    | used for containing binary commands that can be used by scripts, admin and other users
+/dev    | used for containing device files such as a cd drive
+/etc    | used for containing static configuration files
+/home   | used for containing the home directory
+/lib    | used for containing shared libaries that load after a program is started.     
+/opt    | used for containing static add on software packages
+/tmp    | used for containing temporary files from booting the computer
+/var    | used for containing variable data, such as files 
+/proc   | used for containing system information created when the computer is booted
+/usr    | used for containing sharable read only files
 
 6. **How does a period at the beginning of a file name means (example .bashrc)?**
 
