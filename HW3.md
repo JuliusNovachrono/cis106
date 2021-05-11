@@ -1,9 +1,8 @@
-# Homework 3 Finding a Linux Distributions to Solve Specific Problems.
+### Arnaldo Jara
 
-Given the scenario, use the internet or go straight to Distrowatch to find a Linux distribution that will fit best. You need to explain your answers in at least 1 paragraph. (4 to 8 sentences). For each distribution provide the following information:
-* What is it based on? (Debian, Slackware, Redhat, Arch, etc)
-* URL to where it can be downloaded from.
-* The Supported processor architecture (x86, x86_64, arm, etc)
+### CIS-106-RE1
+
+# Homework 3 Finding a Linux Distributions to Solve Specific Problems.
   
 ## Scenario 1: Using a Live Linux Installation
 
