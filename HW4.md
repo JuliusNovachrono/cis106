@@ -3,7 +3,7 @@
 Watch the video [“Linux Filesystem Explained”](https://www.youtube.com/watch?v=HbgzrKJvDRw) and read the presentation [“How to navigate the filesystem”](http://bit.ly/3t30rMQ) then answer the questions below.
 
 1. **Explain the difference between absolute path and relative path:**
-
+* Absolute path is the full path name, and can access any file in any directory. Realtive path only uses partial of the full path, which is used when working within a current directory. 
 
 2. **Why Linux uses / instead of \ for its directory paths?**
 
