@@ -38,14 +38,16 @@ Directory | What is it used for?
 
 
 8. **If you are working in the /usr/share/icons directory and want to move to your home directory, which command would you use?**
-* 
+* cd
 
 9. **Explain what these commands do:**
 
 `cd .config/.htop; cd ../; ls -lX`
+* long list and sort by extension name everything in the .config directory.
 
 
 
 10. **John has a lot of files in the directory /var/www/html/webapp. He wants to long list all the files, including hidden files, by modification time (newest first), and with human-readable file sizes. Which command should he use conjuring that his current working directory is:** 
     
 `/home/john/.git/`
+*
