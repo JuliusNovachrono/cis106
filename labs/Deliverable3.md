@@ -7,7 +7,8 @@
 ##### May 8,2020
 # Deliverable 3: Turning Ubuntu into an everyday OS
 
-<!-- TOC --> * [Step 1.1 Downloading Ubuntu disc](#step-11-downloading-ubuntu-disc)
+<!-- TOC --> 
+* [Step 1.1 Downloading Ubuntu disc](#step-11-downloading-ubuntu-disc)
     * [Step 1.2 Downloading Rufus to USB](#step-12-downloading-rufus-to-usb) 
 * [Step 2.1 Preparing Installation of Ubuntu](#step-21-preparing-installation-of-ubuntu)  
     * [Step 2.2 Installing Ubuntu](#step-22-installing-ubuntu) 
