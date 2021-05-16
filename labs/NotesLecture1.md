@@ -49,7 +49,7 @@
   Open source | Closed source | Free software
   ------------|---------------|--------------
   Software can be distributed for freeor a fee. The source code must be distributedwith the software. |  Software can be distributed for freeor a fee. ​The end user has limitedaccess to the software and thesource code is not available. | Software can be distributed for freeor a fee. The user has total control ofthe software and the source code.The software must comply with the 4 freedoms.
-![imgOC](imgOC.png)
+![imgOC](/imgs/FinalPics/imgOC.png)
 #### The 4 freedoms
 * Freedom 0: the user can run the program as you wish, for any purpose .
 * Freedom 1: the user can  study how the program works, and change it.
@@ -59,5 +59,5 @@
 
 
 ## Advantages/Disadvantages of Open Source software
-![imgAD](imgAD.png)
+![imgAD](/imgs/FinalPics/imgAD.png)
 ## What is Ubuntu (Notes Lecture 1)?
