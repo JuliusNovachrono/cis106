@@ -36,7 +36,7 @@
 * ![x](../imgs/DelPics/step.1.2.png)
 * Then click on "save file" option, and then click "OK".
 ## Step 1.2 Downloading Rufus to USB
-* Rufus will be used to boot Ubuntu into a computer using a USB drive 
+* Rufus is a free open source app used to create bootable USB flash drives:(Rufus will be used to boot Ubuntu into a computer using a USB drive)
 * You will need to visit [Rufus](https://rufus.ie/en_US/).
 * Then scroll down to the download section and click on Rufus 3.14 (Portable). 
 * ![x](../imgs/DelPics/step1.3.png)
@@ -141,7 +141,7 @@
 * Google chrome is ready to use!
 ## Installing Thunder Bird (e-mail app)  
 * Second we will install an e-mail app called Thunder Bird: (it's a great email software that has the ability to write emails using html)
-* To download enter the following command: 
+* To install enter the following command: 
 * > sudo apt-get install thunderbird
 * ![x](../imgs/DelPics/step4.2.png)
 * Then enter your email account information:
@@ -151,53 +151,54 @@
 * Thunder Bird is ready to use!
 ## Installing Remmina (remote assistance/connection app)
 * Next we will Install an app called Remina: (it's a free open source remote desktop client for Linux: it's used to remotely access one or many computers)
-* To download enter the following command: 
+* To install enter the following command: 
 * > sudo apt-get install remmina remmina-plugin-* -y
 * ![x](../imgs/DelPics/step4.5.png)
 ## Installing Libre Office (Office Suite app)
 * Next we will install an open source office suite called Libre Office: (Libre Office is a free open source software that includes applications for: Writing, spreadsheets, presentaions, graphs & flowcharts, databases, and math formulas) 
-* To download enter the following command: 
+* To install enter the following command: 
 * > sudo add-apt-repository ppa:libreoffice/ppa
 * ![x](../imgs/DelPics/step4.6.png)
 * ![](../imgs/DelPics/step4.7.png)
+* Microsoft equivalent's:
 * Calc = Excel
 * Draw = Visio
 * Impress = PowerPoint
 * Writer = Word
-* Remember to use "sudo apt upgrade" or "update" if you wish to do so.
+* Remember to use "sudo apt upgrade" followed by "sudo apt update" if you wish to install latest Libre Office apps.
 ## Installing Kodi (Entertainment / TV app ) 
 * Next we will Install an Entertainment app to watch movies & TV shows called Kodi.
-* Enter: 
+* To install enter the following command: 
 * > sudo apt install kodi
 * ![x](../imgs/DelPics/step4.8.png)
-* link to add movie ad-ons https://www.youtube.com/watch?v=4U3nDNbz0hQ
+* Click the link to watch "visual instructions" on how to add movie ad-ons https://www.youtube.com/watch?v=4U3nDNbz0hQ
 ## Installing PacMan (linux version game)
 * Next we will Install a game called PacMan.
-* Enter: 
+* To install enter the following command: 
 * > sudo apt-get install pacman4console
 * ![x](../imgs/DelPics/step4.9.png)
 * ![x](../imgs/DelPics/step4.10.png)
 ## Installing Discord (Chat app) 
-* Next we will install a chat service called Discord:
-* Enter: 
+* Next we will install a chat service called Discord:(Discord lets users send text messages, create video calls, and send media files. Discord is great because of it's ability to moderate/manage large group chats in community or private servers. It's the perfect place to hangout with friend's online!)
+* To install enter the following commmand: 
 * > sudo snap install discord
 * ![x](../imgs/DelPics/step4.11.png)
 * ![x](../imgs/DelPics/step4.12.png)
 ## Installing Visual Studio Code (app for coding)
-* Next we will install an app for Web Developers & all other computer science students called 'Visual Studio Code'
-* Enter: 
+* Next we will install an app for Web Developers & all other computer science students called 'Visual Studio Code'(VSC lets users visually see their code in real time as they type due to their enhanced preview windows)
+* To start installing required software, enter the following command: 
 * > sudo apt install software-properties-common apt-transport-https wget
-* Enter: 
+* To start Visual Studio Code download enter the following command: 
 * > wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
-* Enter: 
+* Next enter the following command to update: 
 * > sudo apt update
-* Then enter:
+* Then enter the following command to complete installation:
 * > sudo apt install code
 * ![x](../imgs/DelPics/step4.13.png)
 * ![x](../imgs/DelPics/step4.14.png)
 ## Installing zoom (Video calling app)
-* Next we will be installing Zoom for school remote classes.
-* Enter:
+* Next we will be installing Zoom.(It's the video calling app of prefrence for school remote classes: due to its fantastic ability to manage large video group chats & it's abilty to share screens)
+* To install enter the following command:
 * > sudo snap install zoom-client
 * ![x](../imgs/DelPics/step4.15.png)
 * Congratulations you have completed a fully functional Linux Operating System!
