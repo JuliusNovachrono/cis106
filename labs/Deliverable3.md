@@ -5,7 +5,7 @@
 ##### Professor Alberto
 
 ##### May 8,2020
-# Deliverable 3: Turning Ubuntu into an everyday OS
+# Final Deliverable: Best Step by step Istructions on turning Ubuntu into your main OS.
 
 <!-- TOC --> 
 * [Step 1.1 Downloading Ubuntu disc](#step-11-downloading-ubuntu-disc)
