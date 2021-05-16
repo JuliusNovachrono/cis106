@@ -140,8 +140,8 @@
 * ![x](../imgs/DelPics/step4.1.png)
 * Google chrome is ready to use!
 ## Installing Thunder Bird (e-mail app)  
-* Second we will install an e-mail app called Thunder Bird:
-* Enter: 
+* Second we will install an e-mail app called Thunder Bird: (it's a great email software that has the ability to write emails using html)
+* To download enter the following command: 
 * > sudo apt-get install thunderbird
 * ![x](../imgs/DelPics/step4.2.png)
 * Then enter your email account information:
