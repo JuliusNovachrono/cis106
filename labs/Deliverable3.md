@@ -130,10 +130,10 @@
 * ![x](../imgs/DelPics/step4.26.png)
 * Enjoy!!
 ## Step 4.3 Installing useful Applications for every day use
-* First we will Install an Internet Web browser:
-* For Firefox enter: 
+* First app we will Install is an Internet Web browser! (choose your web browser of prefrence)
+* For Firefox enter the following command: 
 * > sudo apt install firefox -y
-* For Google Chrome enter: 
+* For Google Chrome enter the following command: 
 * > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 * Then enter: 
 * > sudo dpkg -i google-chrome-stable_current_amd64.deb
