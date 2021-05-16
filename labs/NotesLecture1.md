@@ -20,7 +20,7 @@
 * The Linux Command Line by William Shotts
 
 ## Linux distributions
-![imglk](../FinalPics/imgLK.png)
+![imglk](../imgs/FinalPics/imgLK.png)
 * There are a large number of Linux distributions.
 * There are two main Linux Distributions:
     ○ Debian
