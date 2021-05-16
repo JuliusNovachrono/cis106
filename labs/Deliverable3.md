@@ -7,6 +7,25 @@
 ##### May 8,2020
 # Deliverable 3: Turning Ubuntu into an everyday OS
 
+<!-- TOC --> * [Step 1.1 Downloading Ubuntu disc](#step-11-downloading-ubuntu-disc)
+    * [Step 1.2 Downloading Rufus to USB](#step-12-downloading-rufus-to-usb) 
+* [Step 2.1 Preparing Installation of Ubuntu](#step-21-preparing-installation-of-ubuntu)  
+    * [Step 2.2 Installing Ubuntu](#step-22-installing-ubuntu) 
+* [Step 3 Update Ubuntu & other apps(if necessary)](#step-3-update-ubuntu--other-appsif-necessary) 
+* [Step 4.1 Understanding basic Commands for Installing  Software](#step-41-understanding-basic-commands-for-installing--software) 
+* [Step 4.2 Connecting to the internet](#step-42-connecting-to-the-internet) 
+* [Step 4.3 Installing useful Applications for every day use](#step-43-installing-useful-applications-for-every-day-use) 
+  * [Installing Thunder Bird (e-mail app)](#installing-thunder-bird-e-mail-app) 
+  *  [Installing Remmina (remote assistance/connection app)](#installing-remmina-remote-assistanceconnection-app) 
+  *   [Installing Libre Office (Office Suite app)](#installing-libre-office-office-suite-app) 
+  *  [Installing Kodi (Entertainment / TV app )](#installing-kodi-entertainment--tv-app-) 
+  *  [Installing PacMan (linux version game)](#installing-pacman-linux-version-game) 
+  * [Installing Discord (Chat app)](#installing-discord-chat-app)
+  * [Installing Visual Studio Code (app for coding)](#installing-visual-studio-code-app-for-coding) 
+  *  [Installing zoom (Video calling app)](#installing-zoom-video-calling-app) 
+*   [Step 5: Final Tips](#step-5-final-tips) 
+*    [Works Cited](#works-cited)<!-- /TOC -->
+
 ## Step 1.1 Downloading Ubuntu disc
 * Visit [ubuntu](https://ubuntu.com/) and click on the download tab, you should be able to see Ubuntu Desktop 20.04 LTS.
 * After doing so you should be able to see the following image.
