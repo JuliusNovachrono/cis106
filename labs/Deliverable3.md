@@ -10,7 +10,7 @@
 <!-- TOC --> 
 * [Step 1.1 Downloading Ubuntu disc](#step-11-downloading-ubuntu-disc)
     * [Step 1.2 Downloading Rufus to USB](#step-12-downloading-rufus-to-usb) 
-* [Step 2.1 Preparing Installation of Ubuntu](#step-21-preparing-installation-of-ubuntu)  
+* [Step 2.1 Preparing PC for Installation of Ubuntu](#step-21-preparing-pc-for-installation-of-ubuntu)  
     * [Step 2.2 Installing Ubuntu](#step-22-installing-ubuntu) 
 * [Step 3 Update Ubuntu & other apps(if necessary)](#step-3-update-ubuntu--other-appsif-necessary) 
 * [Step 4.1 Understanding basic Commands for Installing  Software](#step-41-understanding-basic-commands-for-installing--software) 
