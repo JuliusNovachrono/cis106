@@ -8,7 +8,7 @@
 
 ##### Final Deliverable
 
-# Best Step by step Istructions on turning Ubuntu into your main OS.
+# Best Step by step Istructions to turn Ubuntu into your favorite main OS.
 
 <!-- TOC --> 
 * [Step 1.1 Downloading Ubuntu disc](#step-11-downloading-ubuntu-disc)
