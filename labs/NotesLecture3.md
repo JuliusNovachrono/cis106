@@ -45,4 +45,5 @@
 * The root is the main directory or core directory, containing files of the operating system. (The root directory acts as the first branch of the directory tree or structure,(Think of it as the father of all other directories))
 *  This tree is called the FHS or the file system directory. FHS are a set of rules on how files are structured.
 *  A directory contains sub directories and one has to open a path to enter sub directories. (If C is in B and B is in A, one would have to create a path from A to B then C ~/A/B/C/)
+*  The following is a visual representation of the directory structure beggining from root:
 * ![x](/imgs/FinalPics/root.png) 
