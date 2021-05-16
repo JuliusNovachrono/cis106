@@ -1,5 +1,7 @@
 ##### Arnaldo Jara
 
+##### Professor Alberto
+
 ##### CIS-106-RE1
 
 # Notes Lecture 1 What is Linux
@@ -61,3 +63,7 @@
 ## Advantages/Disadvantages of Open Source software
 ![imgAD](/imgs/FinalPics/imgAD.png)
 ## What is Ubuntu (Notes Lecture 1)?
+* Ubuntu is a free open source Linux distribution based on Debian.
+* It is considered one of the best secure operating systems on linux, and includes superb professional support.
+* Since Ubuntu is open source it can be customized to meet any users needs, Ubuntu is simply very flexible!
+* Ubuntu is also not just used as a front end desktop envronment, it is also used to manage backend servers.
