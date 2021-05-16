@@ -150,13 +150,13 @@
 * ![x](../imgs/DelPics/step4.4.png)
 * Thunder Bird is ready to use!
 ## Installing Remmina (remote assistance/connection app)
-* Next we will Install an app for remote assistance / connection:
-* Enter: 
+* Next we will Install an app called Remina: (it's a free open source remote desktop client for Linux: it's used to remotely access one or many computers)
+* To download enter the following command: 
 * > sudo apt-get install remmina remmina-plugin-* -y
 * ![x](../imgs/DelPics/step4.5.png)
 ## Installing Libre Office (Office Suite app)
-* Next we will install a free Microsoft Office equivalent called Libre Office
-* Enter: 
+* Next we will install an open source office suite called Libre Office: (Libre Office is a free open source software that includes applications for: Writing, spreadsheets, presentaions, graphs & flowcharts, databases, and math formulas) 
+* To download enter the following command: 
 * > sudo add-apt-repository ppa:libreoffice/ppa
 * ![x](../imgs/DelPics/step4.6.png)
 * ![](../imgs/DelPics/step4.7.png)
