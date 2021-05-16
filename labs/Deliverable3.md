@@ -51,10 +51,10 @@
 * After selecting Boot selection the rest of options will be selected by default.(PLEASE LEAVE EVERYTHING ON DEFAULT, UNLESS YOU ARE FAMILIAR WITH THE OPTIONS)
 * Then click START
 * ![x](../imgs/DelPics/step1.6.png)
-* After status is ready, you can begin to install your new Ubuntu OS.
-## Step 2.1 Preparing Installation of Ubuntu
+* After status is ready, you can begin to prepare your PC for installation of Ubuntu.
+## Step 2.1 Preparing PC for Installation of Ubuntu
 * You are now ready to install Ubuntu onto a new PC (recommended) 'OR' You can delete the windows OS currently on your PC if you so desire. 
-* Here is a 3 minute video on how to delete the Windows OS or switch Ubuntu as default https://www.youtube.com/watch?v=nfNbwBLqwvI
+* Here is a 3 minute "visual instruction video" on how to delete the Windows OS or switch Ubuntu as default https://www.youtube.com/watch?v=nfNbwBLqwvI
   
 ## Step 2.2 Installing Ubuntu
 * After deleting the Windows OS restart the PC. 
