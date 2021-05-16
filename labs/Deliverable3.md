@@ -133,7 +133,7 @@
 * ![x](../imgs/DelPics/step4.26.png)
 * Enjoy!!
 ## Step 4.3 Installing useful Applications for every day use
-* First app we will Install is an Internet Web browser! (choose your web browser of prefrence)
+* First app we will Install is an Internet Web browser! (choose your web browser of preference)
 * For Firefox enter the following command: 
 * > sudo apt install firefox -y
 * For Google Chrome enter the following command: 
@@ -204,7 +204,7 @@
 * To install enter the following command:
 * > sudo snap install zoom-client
 * ![x](../imgs/DelPics/step4.15.png)
-* Congratulations you have completed a fully functional Linux Operating System!
+* Congratulations you now have a fully functional Linux Operating System with great apps!
 ## Step 5: Final Tips
 * Final Tips: The manual page also known as the 'man' page if you ever have trouble with a command type 'man' followed by the command you need help with.
 * Example: 
