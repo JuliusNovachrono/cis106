@@ -30,7 +30,7 @@
     ○ Arch
     ○ Gentoo
 ## Linux Architecture
-![imgLA](/FinalPics/imgLA.png)
+![imgLA](/imgs/FinalPics/imgLA.png)
 * Linux is modular which means that users can remove and add/remove whatever they need or don't need.
     ○ Kernel ​= the core of the operating system. Manages the hardware.
     ○ Daemons​ = background programs that run independent of the user.
